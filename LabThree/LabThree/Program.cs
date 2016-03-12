@@ -4,7 +4,6 @@
     {
         static void Main(string[] args)
         {
-
             Instructor person1 = new Instructor("John", "English");
             Instructor person2 = new Instructor("Mike", "Math");
 
